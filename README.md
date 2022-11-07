@@ -3,6 +3,10 @@ Aplicação principal do projeto do evento da Rocketseat, NLW Copa, o objetivo d
 
 Para funcionar a aplicação precisa do servidor do repositorio rodando.
 
+# Tela
+
+![tela](https://user-images.githubusercontent.com/22208015/200402752-2cb0a4ff-e404-4040-9fb2-d89bc9d847f8.png)
+
 # Ferramentas
 - React
 - axios
